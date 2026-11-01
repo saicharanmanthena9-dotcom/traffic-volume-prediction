@@ -19,8 +19,8 @@ Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Google Colab
 ## Results
 | Model | MAE | R² |
 |---|---|---|
-| Linear Regression | [your value] | [your value] |
-| Random Forest | [your value] | [your value] |
+| Linear Regression | [1589.9] | [0.17] |
+| Random Forest | [251.9] | [0.947] |
 
 ## Findings
 - Busiest hours: [for example, 7-8 AM and 4-5 PM]
